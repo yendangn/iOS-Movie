@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.6.0)
+  - Kingfisher (4.6.3)
+  - SwiftHEXColors (1.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.6)
+  - Kingfisher (~> 4.0)
+  - SwiftHEXColors
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  Kingfisher: 98e6d5b5e807645743e8ed5ececd25d688d38452
+  SwiftHEXColors: 9681e756dc78a99ae97f277165b3f5e33b087553
+
+PODFILE CHECKSUM: 7375e40cf8eff4e97ca9036414c403962938ad6e
+
+COCOAPODS: 1.4.0
